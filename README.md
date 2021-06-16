@@ -1,6 +1,9 @@
 # Repositório: Datsc-neuron
 ## Dicas de Cientistas para Cientista de Dados
 
+![Alt text](https://github.com/Neuron-Data-Science/Datsc-neuron/blob/main/Repo%20-%20Ds.png?raw=true "logo")
+
+
 Contribuição do grupo Neuron-DS & AI da USP com material de estudos de Data Science
 
 Esse repositório tem como objetivo trazer uma lista das nossas últimas publicações no Medium, assim como uma lista completa de dicas, material de estudos em Inglês e Português na área de Data Science. 
