@@ -7,6 +7,8 @@ Esse repositório tem como objetivo trazer uma lista das nossas últimas publica
 
 - Curso introdutório com tópicos de Data Science:
 
+[Repositório com materiais completos PDFs + Notebooks:](https://github.com/Neuron-Data-Science/Datsc-neuron/tree/main/materiais_pdf/Data_Science(curso_de_2019))
+
 
 - Conheça os nossos Posts no Medium:
 
